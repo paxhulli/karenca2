@@ -1,0 +1,7 @@
+{
+  "name": "karenca2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
